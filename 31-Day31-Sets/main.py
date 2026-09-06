@@ -4,3 +4,9 @@ print(type(info))
 
 for item in info:
     print("Item 1: ",item)
+
+sritesh = {}
+print(type(sritesh)) # Return Dictionaries not set
+
+sri = set()
+print(type(sri)) # Empty Set
