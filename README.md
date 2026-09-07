@@ -65,7 +65,7 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 | Day 38  | Custom-Errors                       |
 | Day 39  | Exercise-3-Solution                 |
 | Day 40  | Exercise-4                          |
-| Day 41  | —                                   |
+| Day 41  | Short-Hand-if-else                  |
 | Day 42  | —                                   |
 | Day 43  | —                                   |
 | Day 44  | —                                   |
@@ -173,7 +173,7 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 ├── 38-Day38-Custom-Errors/
 ├── 39-Day39-Exercise-3-Solution/
 ├── 40-Day40-Exercise-4/
-├── 41-Day41/
+├── 41-Day41-Short-Hand-if-else/
 ├── 42-Day42/
 ├── 43-Day43/
 ├── 44-Day44/
