@@ -62,7 +62,7 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 | Day 35  | For Loop with Else                  |
 | Day 36  | Exception Handling                  |
 | Day 37  | `finally` Keyword                   |
-| Day 38  | —                                   |
+| Day 38  | Custom-Errors                       |
 | Day 39  | —                                   |
 | Day 40  | —                                   |
 | Day 41  | —                                   |
@@ -170,7 +170,7 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 ├── 35-Day35-For-loop-with-else/
 ├── 36-Day36-Exception-Handling/
 ├── 37-Day37-Finally-keyword/
-├── 38-Day38/
+├── 38-Day38-Custom-Errors/
 ├── 39-Day39/
 ├── 40-Day40/
 ├── 41-Day41/
