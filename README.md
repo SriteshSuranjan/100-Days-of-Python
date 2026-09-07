@@ -63,8 +63,8 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 | Day 36  | Exception Handling                  |
 | Day 37  | `finally` Keyword                   |
 | Day 38  | Custom-Errors                       |
-| Day 39  | —                                   |
-| Day 40  | —                                   |
+| Day 39  | Exercise-3-Solution                 |
+| Day 40  | Exercise-4                          |
 | Day 41  | —                                   |
 | Day 42  | —                                   |
 | Day 43  | —                                   |
@@ -171,8 +171,8 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 ├── 36-Day36-Exception-Handling/
 ├── 37-Day37-Finally-keyword/
 ├── 38-Day38-Custom-Errors/
-├── 39-Day39/
-├── 40-Day40/
+├── 39-Day39-Exercise-3-Solution/
+├── 40-Day40-Exercise-4/
 ├── 41-Day41/
 ├── 42-Day42/
 ├── 43-Day43/
@@ -244,7 +244,7 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 ### Current Progress: **37 / 100 Days**
 
 ```text
-███████████████▊░░░░░░░░░░░░░░░░░░░░░░ 38%
+████████████████▊░░░░░░░░░░░░░░░░░░░░░ 40%
 ```
 
 The progress section will be updated throughout the challenge.
