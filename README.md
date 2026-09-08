@@ -67,7 +67,7 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 | Day 40  | Exercise-4                          |
 | Day 41  | Short-Hand-if-else                  |
 | Day 42  | Enumerate                           |
-| Day 43  | —                                   |
+| Day 43  | Virtual Environment                 |
 | Day 44  | —                                   |
 | Day 45  | —                                   |
 | Day 46  | —                                   |
@@ -175,7 +175,7 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 ├── 40-Day40-Exercise-4/
 ├── 41-Day41-Short-Hand-if-else/
 ├── 42-Day42-Enumerate/
-├── 43-Day43/
+├── 43-Day43-Virtual-Environment/
 ├── 44-Day44/
 ├── 45-Day45/
 ├── 46-Day46/
