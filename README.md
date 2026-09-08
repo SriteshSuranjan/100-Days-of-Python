@@ -23,108 +23,108 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 
 ## 📚 100 Days of Python
 
-| Day     | Topic                               |
-| ------- | ------------------------------      |
-| Day 01  | Introduction to Python              |
-| Day 02  | Applications of Python              |
-| Day 03  | Modules and pip                     |
-| Day 04  | Our First Program                   |
-| Day 05  | Comments and `print()`              |
-| Day 06  | Variables and Data Types            |
-| Day 07  | Exercise 1 — Create a Calculator    |
-| Day 08  | Exercise 1 — Solution               |
-| Day 09  | Typecasting                         |
-| Day 10  | Taking User Input                   |
-| Day 11  | Strings                             |
-| Day 12  | String Slicing                      |
-| Day 13  | String Methods                      |
-| Day 14  | If-Else Conditionals                |
-| Day 15  | Exercise 2 — Good Morning Sir       |
-| Day 16  | Match Case                          |
-| Day 17  | For Loops                           |
-| Day 18  | While Loops                         |
-| Day 19  | `break` and `continue`              |
-| Day 20  | Functions                           |
-| Day 21  | Function Arguments                  |
-| Day 22  | Introduction to Lists               |
-| Day 23  | List Methods                        |
-| Day 24  | Introduction to Tuples              |
-| Day 25  | Operations on Tuples                |
-| Day 26  | Exercise 2 — Solution               |
-| Day 27  | Exercise 3                          |
-| Day 28  | f-Strings                           |
-| Day 29  | Docstrings                          |
-| Day 30  | Recursion                           |
-| Day 31  | Sets                                |
-| Day 32  | Set Methods                         |
-| Day 33  | Dictionaries                        |
-| Day 34  | Dictionary Methods                  |
-| Day 35  | For Loop with Else                  |
-| Day 36  | Exception Handling                  |
-| Day 37  | `finally` Keyword                   |
-| Day 38  | Custom-Errors                       |
-| Day 39  | Exercise-3-Solution                 |
-| Day 40  | Exercise-4                          |
-| Day 41  | Short-Hand-if-else                  |
-| Day 42  | Enumerate                           |
-| Day 43  | Virtual Environment                 |
-| Day 44  | How `import` works                  |
-| Day 45  | —                                   |
-| Day 46  | —                                   |
-| Day 47  | —                                   |
-| Day 48  | —                                   |
-| Day 49  | —                                   |
-| Day 50  | —                                   |
-| Day 51  | —                                   |
-| Day 52  | —                                   |
-| Day 53  | —                                   |
-| Day 54  | —                                   |
-| Day 55  | —                                   |
-| Day 56  | —                                   |
-| Day 57  | —                                   |
-| Day 58  | —                                   |
-| Day 59  | —                                   |
-| Day 60  | —                                   |
-| Day 61  | —                                   |
-| Day 62  | —                                   |
-| Day 63  | —                                   |
-| Day 64  | —                                   |
-| Day 65  | —                                   |
-| Day 66  | —                                   |
-| Day 67  | —                                   |
-| Day 68  | —                                   |
-| Day 69  | —                                   |
-| Day 70  | —                                   |
-| Day 71  | —                                   |
-| Day 72  | —                                   |
-| Day 73  | —                                   |
-| Day 74  | —                                   |
-| Day 75  | —                                   |
-| Day 76  | —                                   |
-| Day 77  | —                                   |
-| Day 78  | —                                   |
-| Day 79  | —                                   |
-| Day 80  | —                                   |
-| Day 81  | —                                   |
-| Day 82  | —                                   |
-| Day 83  | —                                   |
-| Day 84  | —                                   |
-| Day 85  | —                                   |
-| Day 86  | —                                   |
-| Day 87  | —                                   |
-| Day 88  | —                                   |
-| Day 89  | —                                   |
-| Day 90  | —                                   |
-| Day 91  | —                                   |
-| Day 92  | —                                   |
-| Day 93  | —                                   |
-| Day 94  | —                                   |
-| Day 95  | —                                   |
-| Day 96  | —                                   |
-| Day 97  | —                                   |
-| Day 98  | —                                   |
-| Day 99  | —                                   |
-| Day 100 | —                                   |
+| Day     | Topic                                   |
+| ------- | ------------------------------          |
+| Day 01  | Introduction to Python                  |
+| Day 02  | Applications of Python                  |
+| Day 03  | Modules and pip                         |
+| Day 04  | Our First Program                       |
+| Day 05  | Comments and `print()`                  |
+| Day 06  | Variables and Data Types                |
+| Day 07  | Exercise 1 — Create a Calculator        |
+| Day 08  | Exercise 1 — Solution                   |
+| Day 09  | Typecasting                             |
+| Day 10  | Taking User Input                       |
+| Day 11  | Strings                                 |
+| Day 12  | String Slicing                          |
+| Day 13  | String Methods                          |
+| Day 14  | If-Else Conditionals                    |
+| Day 15  | Exercise 2 — Good Morning Sir           |
+| Day 16  | Match Case                              |
+| Day 17  | For Loops                               |
+| Day 18  | While Loops                             |
+| Day 19  | `break` and `continue`                  |
+| Day 20  | Functions                               |
+| Day 21  | Function Arguments                      |
+| Day 22  | Introduction to Lists                   |
+| Day 23  | List Methods                            |
+| Day 24  | Introduction to Tuples                  |
+| Day 25  | Operations on Tuples                    |
+| Day 26  | Exercise 2 — Solution                   |
+| Day 27  | Exercise 3                              |
+| Day 28  | f-Strings                               |
+| Day 29  | Docstrings                              |
+| Day 30  | Recursion                               |
+| Day 31  | Sets                                    |
+| Day 32  | Set Methods                             |
+| Day 33  | Dictionaries                            |
+| Day 34  | Dictionary Methods                      |
+| Day 35  | For Loop with Else                      |
+| Day 36  | Exception Handling                      |
+| Day 37  | `finally` Keyword                       |
+| Day 38  | Custom-Errors                           |
+| Day 39  | Exercise-3-Solution                     |
+| Day 40  | Exercise-4                              |
+| Day 41  | Short-Hand-if-else                      |
+| Day 42  | Enumerate                               |
+| Day 43  | Virtual Environment                     |
+| Day 44  | How `import` works                      |
+| Day 45  | if-name-main-in-Python                  |
+| Day 46  | —                                       |
+| Day 47  | —                                       |
+| Day 48  | —                                       |
+| Day 49  | —                                       |
+| Day 50  | —                                       |
+| Day 51  | —                                       |
+| Day 52  | —                                       |
+| Day 53  | —                                       |
+| Day 54  | —                                       |
+| Day 55  | —                                       |
+| Day 56  | —                                       |
+| Day 57  | —                                       |
+| Day 58  | —                                       |
+| Day 59  | —                                       |
+| Day 60  | —                                       |
+| Day 61  | —                                       |
+| Day 62  | —                                       |
+| Day 63  | —                                       |
+| Day 64  | —                                       |
+| Day 65  | —                                       |
+| Day 66  | —                                       |
+| Day 67  | —                                       |
+| Day 68  | —                                       |
+| Day 69  | —                                       |
+| Day 70  | —                                       |
+| Day 71  | —                                       |
+| Day 72  | —                                       |
+| Day 73  | —                                       |
+| Day 74  | —                                       |
+| Day 75  | —                                       |
+| Day 76  | —                                       |
+| Day 77  | —                                       |
+| Day 78  | —                                       |
+| Day 79  | —                                       |
+| Day 80  | —                                       |
+| Day 81  | —                                       |
+| Day 82  | —                                       |
+| Day 83  | —                                       |
+| Day 84  | —                                       |
+| Day 85  | —                                       |
+| Day 86  | —                                       |
+| Day 87  | —                                       |
+| Day 88  | —                                       |
+| Day 89  | —                                       |
+| Day 90  | —                                       |
+| Day 91  | —                                       |
+| Day 92  | —                                       |
+| Day 93  | —                                       |
+| Day 94  | —                                       |
+| Day 95  | —                                       |
+| Day 96  | —                                       |
+| Day 97  | —                                       |
+| Day 98  | —                                       |
+| Day 99  | —                                       |
+| Day 100 | —                                       |
 
 ---
 
@@ -177,7 +177,7 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 ├── 42-Day42-Enumerate/
 ├── 43-Day43-Virtual-Environment/
 ├── 44-Day44-How-import-works/
-├── 45-Day45/
+├── 45-Day45-if-name-main-in-Python/
 ├── 46-Day46/
 ├── 47-Day47/
 ├── 48-Day48/
@@ -244,7 +244,7 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 ### Current Progress: **37 / 100 Days**
 
 ```text
-█████████████████▊░░░░░░░░░░░░░░░░░░░░ 44%
+█████████████████▊░░░░░░░░░░░░░░░░░░░░ 45%
 ```
 
 The progress section will be updated throughout the challenge.
