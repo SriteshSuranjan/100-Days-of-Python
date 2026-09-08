@@ -1,0 +1,3 @@
+import tony
+
+tony.welcome()
