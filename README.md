@@ -70,7 +70,7 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 | Day 43  | Virtual Environment                     |
 | Day 44  | How `import` works                      |
 | Day 45  | if-name-main-in-Python                  |
-| Day 46  | —                                       |
+| Day 46  | os-Module                               |
 | Day 47  | —                                       |
 | Day 48  | —                                       |
 | Day 49  | —                                       |
@@ -178,7 +178,7 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 ├── 43-Day43-Virtual-Environment/
 ├── 44-Day44-How-import-works/
 ├── 45-Day45-if-name-main-in-Python/
-├── 46-Day46/
+├── 46-Day46-os-Module/
 ├── 47-Day47/
 ├── 48-Day48/
 ├── 49-Day49/
