@@ -244,7 +244,7 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 ### Current Progress: **37 / 100 Days**
 
 ```text
-█████████████████▊░░░░░░░░░░░░░░░░░░░░ 43%
+█████████████████▊░░░░░░░░░░░░░░░░░░░░ 44%
 ```
 
 The progress section will be updated throughout the challenge.
