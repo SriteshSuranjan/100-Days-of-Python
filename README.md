@@ -77,7 +77,7 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 | Day 50  | read-readlines-and-other-methods        |
 | Day 51  | seek-and-tell-functions                 |
 | Day 52  | Lambda Functions                        |
-| Day 53  | —                                       |
+| Day 53  | Map-Filter-and-Reduce                   |
 | Day 54  | —                                       |
 | Day 55  | —                                       |
 | Day 56  | —                                       |
@@ -185,7 +185,7 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 ├── 50-Day50-read-readlines-and-other-methods/
 ├── 51-Day51-seek-and-tell-functions/
 ├── 52-Day52-Lambda-Functions/
-├── 53-Day53/
+├── 53-Day53-Map-Filter-and-Reduce/
 ├── 54-Day54/
 ├── 55-Day55/
 ├── 56-Day56/
@@ -241,10 +241,10 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 
 ## 📈 Progress
 
-### Current Progress: **52 / 100 Days**
+### Current Progress: **53 / 100 Days**
 
 ```text
-███████████████████▊░░░░░░░░░░░░░░░░░░░ 52%
+████████████████████▊░░░░░░░░░░░░░░░░░░ 53%
 ```
 
 The progress section will be updated throughout the challenge.
