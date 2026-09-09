@@ -72,7 +72,7 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 | Day 45  | if-name-main-in-Python                  |
 | Day 46  | os-Module                               |
 | Day 47  | Exercise 4 - Solution                   |
-| Day 48  | —                                       |
+| Day 48  | local-vs-global-variables               |
 | Day 49  | —                                       |
 | Day 50  | —                                       |
 | Day 51  | —                                       |
@@ -180,7 +180,7 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 ├── 45-Day45-if-name-main-in-Python/
 ├── 46-Day46-os-Module/
 ├── 47-Day47-Exercise-3-Solution/
-├── 48-Day48/
+├── 48-Day48-local-vs-global-variables/
 ├── 49-Day49/
 ├── 50-Day50/
 ├── 51-Day51/
@@ -244,7 +244,7 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 ### Current Progress: **37 / 100 Days**
 
 ```text
-█████████████████▊░░░░░░░░░░░░░░░░░░░░ 46%
+█████████████████▊░░░░░░░░░░░░░░░░░░░░ 48%
 ```
 
 The progress section will be updated throughout the challenge.
