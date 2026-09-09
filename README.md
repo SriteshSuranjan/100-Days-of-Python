@@ -76,7 +76,7 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 | Day 49  | File-IO                                 |
 | Day 50  | read-readlines-and-other-methods        |
 | Day 51  | seek-and-tell-functions                 |
-| Day 52  | —                                       |
+| Day 52  | Lambda Function                         |
 | Day 53  | —                                       |
 | Day 54  | —                                       |
 | Day 55  | —                                       |
@@ -184,7 +184,7 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 ├── 49-Day49-File-IO/
 ├── 50-Day50-read-readlines-and-other-methods/
 ├── 51-Day51-seek-and-tell-functions/
-├── 52-Day52/
+├── 52-Day52-Lambda-Functions/
 ├── 53-Day53/
 ├── 54-Day54/
 ├── 55-Day55/
@@ -241,10 +241,10 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 
 ## 📈 Progress
 
-### Current Progress: **51 / 100 Days**
+### Current Progress: **52 / 100 Days**
 
 ```text
-███████████████████▊░░░░░░░░░░░░░░░░░░░ 51%
+███████████████████▊░░░░░░░░░░░░░░░░░░░ 52%
 ```
 
 The progress section will be updated throughout the challenge.
