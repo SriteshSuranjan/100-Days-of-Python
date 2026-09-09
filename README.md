@@ -71,7 +71,7 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 | Day 44  | How `import` works                      |
 | Day 45  | if-name-main-in-Python                  |
 | Day 46  | os-Module                               |
-| Day 47  | —                                       |
+| Day 47  | Exercise 4 - Solution                   |
 | Day 48  | —                                       |
 | Day 49  | —                                       |
 | Day 50  | —                                       |
@@ -179,7 +179,7 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 ├── 44-Day44-How-import-works/
 ├── 45-Day45-if-name-main-in-Python/
 ├── 46-Day46-os-Module/
-├── 47-Day47/
+├── 47-Day47-Exercise-3-Solution/
 ├── 48-Day48/
 ├── 49-Day49/
 ├── 50-Day50/
