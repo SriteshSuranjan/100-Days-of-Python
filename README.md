@@ -73,8 +73,8 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 | Day 46  | os-Module                               |
 | Day 47  | Exercise 4 - Solution                   |
 | Day 48  | local-vs-global-variables               |
-| Day 49  | —                                       |
-| Day 50  | —                                       |
+| Day 49  | File-IO                                 |
+| Day 50  | read-readlines-and-other-methods        |
 | Day 51  | —                                       |
 | Day 52  | —                                       |
 | Day 53  | —                                       |
@@ -181,8 +181,8 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 ├── 46-Day46-os-Module/
 ├── 47-Day47-Exercise-3-Solution/
 ├── 48-Day48-local-vs-global-variables/
-├── 49-Day49/
-├── 50-Day50/
+├── 49-Day49-File-IO/
+├── 50-Day50-read-readlines-and-other-methods/
 ├── 51-Day51/
 ├── 52-Day52/
 ├── 53-Day53/
@@ -244,7 +244,7 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 ### Current Progress: **37 / 100 Days**
 
 ```text
-█████████████████▊░░░░░░░░░░░░░░░░░░░░ 48%
+█████████████████▊░░░░░░░░░░░░░░░░░░░░ 49%
 ```
 
 The progress section will be updated throughout the challenge.
