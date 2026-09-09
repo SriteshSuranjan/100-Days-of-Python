@@ -76,7 +76,7 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 | Day 49  | File-IO                                 |
 | Day 50  | read-readlines-and-other-methods        |
 | Day 51  | seek-and-tell-functions                 |
-| Day 52  | Lambda Function                         |
+| Day 52  | Lambda Functions                        |
 | Day 53  | —                                       |
 | Day 54  | —                                       |
 | Day 55  | —                                       |
