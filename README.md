@@ -75,7 +75,7 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 | Day 48  | local-vs-global-variables               |
 | Day 49  | File-IO                                 |
 | Day 50  | read-readlines-and-other-methods        |
-| Day 51  | —                                       |
+| Day 51  | seek-and-tell-functions                 |
 | Day 52  | —                                       |
 | Day 53  | —                                       |
 | Day 54  | —                                       |
@@ -183,7 +183,7 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 ├── 48-Day48-local-vs-global-variables/
 ├── 49-Day49-File-IO/
 ├── 50-Day50-read-readlines-and-other-methods/
-├── 51-Day51/
+├── 51-Day51-seek-and-tell-functions/
 ├── 52-Day52/
 ├── 53-Day53/
 ├── 54-Day54/
@@ -241,10 +241,10 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 
 ## 📈 Progress
 
-### Current Progress: **50 / 100 Days**
+### Current Progress: **51 / 100 Days**
 
 ```text
-███████████████████▊░░░░░░░░░░░░░░░░░░░ 50%
+███████████████████▊░░░░░░░░░░░░░░░░░░░ 51%
 ```
 
 The progress section will be updated throughout the challenge.
