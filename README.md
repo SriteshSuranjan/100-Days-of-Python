@@ -31,15 +31,15 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 | Day 04  | Our First Program                       |
 | Day 05  | Comments and `print()`                  |
 | Day 06  | Variables and Data Types                |
-| Day 07  | Exercise 1 — Create a Calculator        |
-| Day 08  | Exercise 1 — Solution                   |
+| Day 07  | Exercise-1-Create a Calculator        |
+| Day 08  | Exercise-1-Solution                   |
 | Day 09  | Typecasting                             |
 | Day 10  | Taking User Input                       |
 | Day 11  | Strings                                 |
 | Day 12  | String Slicing                          |
 | Day 13  | String Methods                          |
 | Day 14  | If-Else Conditionals                    |
-| Day 15  | Exercise 2 — Good Morning Sir           |
+| Day 15  | Exercise-2-Good Morning Sir           |
 | Day 16  | Match Case                              |
 | Day 17  | For Loops                               |
 | Day 18  | While Loops                             |
@@ -50,8 +50,8 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 | Day 23  | List Methods                            |
 | Day 24  | Introduction to Tuples                  |
 | Day 25  | Operations on Tuples                    |
-| Day 26  | Exercise 2 — Solution                   |
-| Day 27  | Exercise 3                              |
+| Day 26  | Exercise-2-Solution                   |
+| Day 27  | Exercise-3                              |
 | Day 28  | f-Strings                               |
 | Day 29  | Docstrings                              |
 | Day 30  | Recursion                               |
@@ -71,7 +71,7 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 | Day 44  | How `import` works                      |
 | Day 45  | if-name-main-in-Python                  |
 | Day 46  | os-Module                               |
-| Day 47  | Exercise 4 - Solution                   |
+| Day 47  | Exercise-4-Solution                   |
 | Day 48  | local-vs-global-variables               |
 | Day 49  | File-IO                                 |
 | Day 50  | read-readlines-and-other-methods        |
@@ -79,7 +79,7 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 | Day 52  | Lambda Functions                        |
 | Day 53  | Map-Filter-and-Reduce                   |
 | Day 54  | is-vs-in-Python                         |
-| Day 55  | —                                       |
+| Day 55  | Exercise-5                              |
 | Day 56  | —                                       |
 | Day 57  | —                                       |
 | Day 58  | —                                       |
@@ -187,7 +187,7 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 ├── 52-Day52-Lambda-Functions/
 ├── 53-Day53-Map-Filter-and-Reduce/
 ├── 54-Day54-is-vs-in-Python/
-├── 55-Day55/
+├── 55-Day55-Exercise-5/
 ├── 56-Day56/
 ├── 57-Day57/
 ├── 58-Day58/
@@ -241,10 +241,10 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 
 ## 📈 Progress
 
-### Current Progress: **54 / 100 Days**
+### Current Progress: **55 / 100 Days**
 
 ```text
-█████████████████████▊░░░░░░░░░░░░░░░░░ 54%
+█████████████████████▊░░░░░░░░░░░░░░░░░ 55%
 ```
 
 The progress section will be updated throughout the challenge.
