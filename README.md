@@ -78,7 +78,7 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 | Day 51  | seek-and-tell-functions                 |
 | Day 52  | Lambda Functions                        |
 | Day 53  | Map-Filter-and-Reduce                   |
-| Day 54  | —                                       |
+| Day 54  | is-vs-in-Python                         |
 | Day 55  | —                                       |
 | Day 56  | —                                       |
 | Day 57  | —                                       |
@@ -186,7 +186,7 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 ├── 51-Day51-seek-and-tell-functions/
 ├── 52-Day52-Lambda-Functions/
 ├── 53-Day53-Map-Filter-and-Reduce/
-├── 54-Day54/
+├── 54-Day54-is-vs-in-Python/
 ├── 55-Day55/
 ├── 56-Day56/
 ├── 57-Day57/
@@ -244,7 +244,7 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 ### Current Progress: **53 / 100 Days**
 
 ```text
-████████████████████▊░░░░░░░░░░░░░░░░░░ 53%
+█████████████████████▊░░░░░░░░░░░░░░░░░ 54%
 ```
 
 The progress section will be updated throughout the challenge.
