@@ -82,9 +82,9 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 | Day 55  | Exercise-5                              |
 | Day 56  | Intro-to-oops                           |
 | Day 57  | Classes-and-Objects                     |
-| Day 58  | —                                       |
-| Day 59  | —                                       |
-| Day 60  | —                                       |
+| Day 58  | Constructors                            |
+| Day 59  | -                                       |
+| Day 60  | -                                       |
 | Day 61  | —                                       |
 | Day 62  | —                                       |
 | Day 63  | —                                       |
@@ -190,9 +190,9 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 ├── 55-Day55-Exercise-5/
 ├── 56-Day56-Intro-to-oops/
 ├── 57-Day57-Classes-and-Objects/
-├── 58-Day58/
-├── 59-Day59/
-├── 60-Day60/
+├── 58-Day58-Constructors/
+├── 59-Day59-/
+├── 60-Day60-/
 ├── 61-Day61/
 ├── 62-Day62/
 ├── 63-Day63/
@@ -241,10 +241,10 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 
 ## 📈 Progress
 
-### Current Progress: **57 / 100 Days**
+### Current Progress: **58 / 100 Days**
 
 ```text
-█████████████████████▊░░░░░░░░░░░░░░░░░ 57%
+█████████████████████▊░░░░░░░░░░░░░░░░░ 58%
 ```
 
 The progress section will be updated throughout the challenge.
