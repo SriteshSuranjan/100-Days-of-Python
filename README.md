@@ -80,7 +80,7 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 | Day 53  | Map-Filter-and-Reduce                   |
 | Day 54  | is-vs-in-Python                         |
 | Day 55  | Exercise-5                              |
-| Day 56  | —                                       |
+| Day 56  | Intro-to-oops                           |
 | Day 57  | —                                       |
 | Day 58  | —                                       |
 | Day 59  | —                                       |
@@ -188,7 +188,7 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 ├── 53-Day53-Map-Filter-and-Reduce/
 ├── 54-Day54-is-vs-in-Python/
 ├── 55-Day55-Exercise-5/
-├── 56-Day56/
+├── 56-Day56-Intro-to-oops/
 ├── 57-Day57/
 ├── 58-Day58/
 ├── 59-Day59/
@@ -241,10 +241,10 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 
 ## 📈 Progress
 
-### Current Progress: **55 / 100 Days**
+### Current Progress: **56 / 100 Days**
 
 ```text
-█████████████████████▊░░░░░░░░░░░░░░░░░ 55%
+█████████████████████▊░░░░░░░░░░░░░░░░░ 56%
 ```
 
 The progress section will be updated throughout the challenge.
