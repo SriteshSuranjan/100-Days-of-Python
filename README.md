@@ -81,7 +81,7 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 | Day 54  | is-vs-in-Python                         |
 | Day 55  | Exercise-5                              |
 | Day 56  | Intro-to-oops                           |
-| Day 57  | —                                       |
+| Day 57  | Classes-and-Objects                     |
 | Day 58  | —                                       |
 | Day 59  | —                                       |
 | Day 60  | —                                       |
@@ -189,7 +189,7 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 ├── 54-Day54-is-vs-in-Python/
 ├── 55-Day55-Exercise-5/
 ├── 56-Day56-Intro-to-oops/
-├── 57-Day57/
+├── 57-Day57-Classes-and-Objects/
 ├── 58-Day58/
 ├── 59-Day59/
 ├── 60-Day60/
@@ -241,10 +241,10 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 
 ## 📈 Progress
 
-### Current Progress: **56 / 100 Days**
+### Current Progress: **57 / 100 Days**
 
 ```text
-█████████████████████▊░░░░░░░░░░░░░░░░░ 56%
+█████████████████████▊░░░░░░░░░░░░░░░░░ 57%
 ```
 
 The progress section will be updated throughout the challenge.
