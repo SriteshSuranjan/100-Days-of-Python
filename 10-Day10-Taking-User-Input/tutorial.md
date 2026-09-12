@@ -19,6 +19,6 @@ print(a)
 ```
 ## Output:
 ```
-Enter the name: Harry
-Harry
+Enter the name: Sritesh
+Sritesh
 ```
