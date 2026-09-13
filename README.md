@@ -85,7 +85,7 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 | Day 58  | Constructors                            |
 | Day 59  | Decorators-in-Python                    |
 | Day 60  | Getters-and-Setters                     |
-| Day 61  | —                                       |
+| Day 61  | Inheritance-in-Python                   |
 | Day 62  | —                                       |
 | Day 63  | —                                       |
 | Day 64  | —                                       |
@@ -193,7 +193,7 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 ├── 58-Day58-Constructors/
 ├── 59-Day59-Decorators-in-Python/
 ├── 60-Day60-Getters-and-Setters/
-├── 61-Day61/
+├── 61-Day61-Inheritance-in-Python/
 ├── 62-Day62/
 ├── 63-Day63/
 ├── 64-Day64/
@@ -241,10 +241,10 @@ This repository contains the code and practice work from **Day 1 to Day 100**.
 
 ## 📈 Progress
 
-### Current Progress: **60 / 100 Days**
+### Current Progress: **61 / 100 Days**
 
 ```text
-█████████████████████▊░░░░░░░░░░░░░░░░░ 60%
+█████████████████████▊░░░░░░░░░░░░░░░░░ 61%
 ```
 
 The progress section will be updated throughout the challenge.
