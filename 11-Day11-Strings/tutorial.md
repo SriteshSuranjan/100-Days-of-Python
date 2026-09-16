@@ -2,11 +2,11 @@
 In python, anything that you enclose between single or double quotation marks is considered a string. A string is essentially a sequence or array of textual data. Strings are used when working with Unicode characters. 
 ## Example
 ```python
-name = "Harry"
+name = "Sritesh"
 print("Hello, " + name)
 ```
 ## Output
-Hello, Harry
+Hello, Sritesh
 
 Note: It does not matter whether you enclose your strings in single or double quotes, the output remains the same.
 
