@@ -1,6 +1,6 @@
 # Strings are immutable in Python, meaning that once a string is created, it cannot be changed. However, you can create new strings based on existing ones using various string methods.
 
-a = "!!!Harry!! !!!!!!!!! Harry!!!"
+a = "!!!Sritesh!! !!!!!!!!! Sritesh!!!"
 
 print(len(a))  # Prints the length of the string
 
@@ -9,7 +9,7 @@ print(a.lower())  # Converts the string to lowercase
 
 print(a.rstrip("!"))  # Removes trailing exclamation marks from the right side of the string
 
-print(a.replace("Harry", "Ron"))  # Replaces occurrences of "Harry" with "Ron"
+print(a.replace("Sritesh", "Ron"))  # Replaces occurrences of "Sritesh" with "Ron"
 
 print(a.split(" "))  # Splits the string into a list of substrings based on spaces
 
@@ -21,7 +21,7 @@ print(str1.center(50)) # Centers the string within a field of 50 characters, pad
 print(len(str1))  # Prints the length of the string
 print(len(str1.center(50))) # Prints the length of the centered string, which will be 50
 
-print(a.count("Harry"))  # Counts the number of occurrences of "Harry" in the string
+print(a.count("Sritesh"))  # Counts the number of occurrences of "Sritesh" in the string
 
 print(str1.endswith("!!!"))  # Checks if the string ends with "!!!" and returns True or False
 
