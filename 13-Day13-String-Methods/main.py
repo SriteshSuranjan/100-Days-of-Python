@@ -2,68 +2,71 @@
 
 a = "!!!Sritesh!! !!!!!!!!! Sritesh!!!"
 
-print(len(a))  # Prints the length of the string
+print("length: ",len(a))  # Prints the length of the string
 
-print(a.upper())  # Converts the string to uppercase
-print(a.lower())  # Converts the string to lowercase
+print("upperCase: ",a.upper())  # Converts the string to uppercase
+print("lowerCase: ",a.lower())  # Converts the string to lowercase
 
-print(a.rstrip("!"))  # Removes trailing exclamation marks from the right side of the string
+str2 = " Silver Spoon "
+print("strip: ",str2.strip)
 
-print(a.replace("Sritesh", "Ron"))  # Replaces occurrences of "Sritesh" with "Ron"
+print("rstrip: ",a.rstrip("!"))  # Removes trailing exclamation marks from the right side of the string
 
-print(a.split(" "))  # Splits the string into a list of substrings based on spaces
+print("replace: ",a.replace("Sritesh", "Ron"))  # Replaces occurrences of "Sritesh" with "Ron"
+
+print("split: ",a.split(" "))  # Splits the string into a list of substrings based on spaces
 
 blogHeading = "introduction tO Python"
-print(blogHeading.capitalize())  # Converts the first character to uppercase and the rest to lowercase
+print("capitalize: ",blogHeading.capitalize())  # Converts the first character to uppercase and the rest to lowercase
 
 str1 = "Welcome to the Console !!!"
-print(str1.center(50)) # Centers the string within a field of 50 characters, padding with spaces on both sides
-print(len(str1))  # Prints the length of the string
-print(len(str1.center(50))) # Prints the length of the centered string, which will be 50
+print("center: ",str1.center(50)) # Centers the string within a field of 50 characters, padding with spaces on both sides
+print("length: ",len(str1))  # Prints the length of the string
+print("center(50): ",len(str1.center(50))) # Prints the length of the centered string, which will be 50
 
-print(a.count("Sritesh"))  # Counts the number of occurrences of "Sritesh" in the string
+print("count: ",a.count("Sritesh"))  # Counts the number of occurrences of "Sritesh" in the string
 
-print(str1.endswith("!!!"))  # Checks if the string ends with "!!!" and returns True or False
+print("endswith: ",str1.endswith("!!!"))  # Checks if the string ends with "!!!" and returns True or False
 
 str1 = "Welcome to the Console !!!" # Variables can be overridden with new values, so we can reassign str1 to a new string
-print(str1.endswith("to", 4, 10)) # Checks if the substring from index 4 to 10 ends with "to" and returns True or False
+print("endswith: ",str1.endswith("to", 4, 10)) # Checks if the substring from index 4 to 10 ends with "to" and returns True or False
 
 str1 = "He's name is Dan. He is an honest man."
-print(str1.find("is")) # Finds the first occurrence of the substring "is" in the string and returns its index. If not found, it returns -1.
-print(str1.find("ishh")) # Finds the first occurrence of the substring "ishh" in the string and returns its index. If not found, it returns -1.
+print("find: ",str1.find("is")) # Finds the first occurrence of the substring "is" in the string and returns its index. If not found, it returns -1.
+print("find: ",str1.find("ishh")) # Finds the first occurrence of the substring "ishh" in the string and returns its index. If not found, it returns -1.
 # print(str1.index("ishh")) # Similar to find(), but raises a ValueError if the substring is not found.
 
 str1 = "WelcomeToTheConsole"
-print(str1.isalnum()) # Checks if all characters in the string are alphanumeric (letters and numbers) and returns True or False
+print("check alnum: ",str1.isalnum()) # Checks if all characters in the string are alphanumeric (letters and numbers) and returns True or False
 
 str1 = "Welcome00"
-print(str1.isalpha()) # Checks if all characters in the string are alphabetic (letters only) and returns True or False
+print("check alpha: ",str1.isalpha()) # Checks if all characters in the string are alphabetic (letters only) and returns True or False
 
 str1 = "hello world"
-print(str1.islower()) # Checks if all characters in the string are lowercase and returns True or False
+print("check lower: ",str1.islower()) # Checks if all characters in the string are lowercase and returns True or False
 
 str1 = "We wish you a Merry Christmas\n"
-print(str1) 
-print(str1.isprintable()) # Checks if all characters in the string are printable (not control characters) and returns True or False
+print("str1: ",str1) 
+print("check characters in string: ",str1.isprintable()) # Checks if all characters in the string are printable (not control characters) and returns True or False
 
 str1 = "        "       #using Spacebar
-print(str1.isspace()) # Checks if all characters in the string are whitespace (spaces, tabs, newlines) and returns True or False
+print("check space: ",str1.isspace()) # Checks if all characters in the string are whitespace (spaces, tabs, newlines) and returns True or False
 str2 = "        "       #using Tab
-print(str2.isspace()) # Checks if all characters in the string are whitespace (spaces, tabs, newlines) and returns True or False
+print("check space: ",str2.isspace()) # Checks if all characters in the string are whitespace (spaces, tabs, newlines) and returns True or False
 
 str1 = "World Health Organization" 
-print(str1.istitle()) # Checks if the string is in title case (each word starts with an uppercase letter followed by lowercase letters) and returns True or False
+print("check title: ",str1.istitle()) # Checks if the string is in title case (each word starts with an uppercase letter followed by lowercase letters) and returns True or False
 str2 = "To kill a Mocking bird"
-print(str2.istitle())
+print("check title: ",str2.istitle())
 
 str1 = "WORLD HEALTH ORGANIZATION" 
-print(str1.isupper()) # Checks if all characters in the string are uppercase and returns True or False
+print("check upper: ",str1.isupper()) # Checks if all characters in the string are uppercase and returns True or False
 
 str1 = "Python is a Interpreted Language" 
-print(str1.startswith("Python")) # Checks if the string starts with "Python" and returns True or False
+print("check start with \"Python\": ",str1.startswith("Python")) # Checks if the string starts with "Python" and returns True or False
 
 str1 = "Python is a Interpreted Language" 
-print(str1.swapcase()) # Swaps the case of each character in the string (uppercase becomes lowercase and vice versa) and returns the new string
+print("swap upper and lower case: ",str1.swapcase()) # Swaps the case of each character in the string (uppercase becomes lowercase and vice versa) and returns the new string
 
 str1 = "He's name is Dan. Dan is an honest man."
-print(str1.title()) # Converts the string to title case (each word starts with an uppercase letter followed by lowercase letters) and returns the new string
+print("convert string into title: ",str1.title()) # Converts the string to title case (each word starts with an uppercase letter followed by lowercase letters) and returns the new string
