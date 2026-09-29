@@ -2,7 +2,7 @@ fruit = "Mango"
 len1 = len(fruit)
 print("Mango is a", len1, "letter word.")
 print(fruit[0:4])  # Prints "Mang" & include 0 but not 4
-print(fruit[:4])  # Prints "Mang" & include 0 but not 4
+print(fruit[4])  # Prints "o" 
 print(fruit[1:4])  # Prints "ang" & include 1 but not 4
 print(fruit[1:])  # Prints "ango" & include 1 but not 4
 print(fruit[1:5])  # Prints "ango" & include 1 but not 5
