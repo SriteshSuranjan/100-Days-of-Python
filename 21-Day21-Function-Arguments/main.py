@@ -4,7 +4,7 @@ average(4, 6) # Uses default value of c = 1
 average(4, 6, 8) # Uses provided value of c = 8
 
 # Default Arguments in Functions
-def name(fname, mname = "Jhon", lname = "Whatson"):
+def name(fname, mname = "John", lname = "Whatson"):
     print("Hello,", fname, mname, lname)
 name("Amy")
 
